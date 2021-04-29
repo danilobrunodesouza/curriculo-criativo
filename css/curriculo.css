@@ -1,0 +1,23 @@
+body {
+    background: rgb(237,237,237);
+    background: linear-gradient(180deg, rgba(237,237,237,1) 0%, rgba(120,120,120,1) 2000%);
+    padding: 25px 0px;
+    color: white;
+}
+
+.folha-curriculo{
+    background-color: #303539;
+    padding: 25px;
+}
+
+.cabecalho {
+    background: rgb(69,26,82);
+    border-radius: 10px;
+    background: linear-gradient(90deg, rgba(69,26,82,1) 0%, rgba(217,30,156,1) 100%)
+    
+}
+
+.coluna {
+    border: 1px solid rgba(217,30,156,1);
+    margin: 15px 0px;
+}
