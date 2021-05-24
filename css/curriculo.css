@@ -3,11 +3,23 @@ body {
     background: linear-gradient(180deg, rgba(237,237,237,1) 0%, rgba(120,120,120,1) 2000%);
     padding: 25px 0px;
     color: white;
+    text-align: justify;
+    text-justify: inter-word;
 }
 
 .folha-curriculo{
     background-color: #303539;
     padding: 25px;
+}
+
+.subtitulo{
+    margin-bottom: 20px;
+    margin-left: 15px
+}
+
+.informacoes {
+    padding-bottom: 15px;
+    padding-left: 15px;
 }
 
 .cabecalho {
